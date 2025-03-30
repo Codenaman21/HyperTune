@@ -83,16 +83,16 @@ Open your browser and navigate to:
 ## 📸 Screenshots  
 
 ### **1️⃣ Home Page** 🏠  
-![Home Page](./images/homepage.png)  
+![Home Page](https://github.com/Codenaman21/HyperTune/blob/main/images/Screenshot%202025-03-30%20095506.png)  
 
 ### **2️⃣ Model Fine-Tuning Interface** 🎯  
-![Fine-Tuning](./images/fine-tuning.png)  
+![Fine-Tuning](https://github.com/Codenaman21/HyperTune/blob/main/images/Screenshot%202025-03-30%20095551.png)  
 
 ### **3️⃣ Real-Time Metrics Dashboard** 📊  
-![Metrics](./images/metrics.png)  
+![Metrics](https://github.com/Codenaman21/HyperTune/blob/main/images/Screenshot%202025-03-30%20095610.png)  
 
-### **4️⃣ Model Deployment Page** 🚀  
-![Deployment](./images/deployment.png)  
+### **4️⃣ Model Services Page** 🚀  
+![Deployment](https://github.com/Codenaman21/HyperTune/blob/main/images/Screenshot%202025-03-30%20095534.png)  
 
 🚀 **Note:** If images are not visible, please check the `/images/` folder in the repository.  
 
